@@ -20,3 +20,4 @@ Provides a summary of all answered questions.
 
 # Navigation Control
 Users cannot go back once a quiz starts, ensuring a fair attempt.
+Added some more fxn.
